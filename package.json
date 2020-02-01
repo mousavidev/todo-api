@@ -1,0 +1,20 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "@mousavidev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Todo",
+    "Task",
+    "Reminder"
+  ],
+  "author": "mousavi.dev@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
